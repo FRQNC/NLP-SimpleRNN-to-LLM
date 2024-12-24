@@ -1,6 +1,7 @@
 # NLP from SimpleRNN to fine tuning LLM
-Repositori ini dibuat untuk memenuhi tugas pada mata kuliah NLP
+Repositori ini dibuat untuk memenuhi tugas pada mata kuliah NLP.
 
+Slide presentasi ([Canva](https://www.canva.com/design/DAGaKu4Qkp8/7WSXOdOcbdxetxAsyrLwOg/edit?utm_content=DAGaKu4Qkp8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 ## Dataset
 Dataset yang digunakan pada projek ini adalah IndoSum yang berisikan teks artikel berita dan ringkasannya.
 ([https://github.com/kata-ai/indosum](https://github.com/kata-ai/indosum))
